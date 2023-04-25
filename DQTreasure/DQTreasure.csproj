@@ -22,4 +22,20 @@
     <Resource Include="resource\Save.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="info\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="info\item.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="info\monster.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="info\treasure.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
