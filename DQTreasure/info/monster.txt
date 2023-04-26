@@ -1,0 +1,92 @@
+#ID Name
+001	Erik
+002	Mia
+020	Slime
+021	She-Slime
+022	Metal Slime
+024	Marble Slime
+025	Cutie Slime
+026	Jade Slime
+030	Dracky
+032	Drackolyte
+033	Dread Dracky
+034	Drackyma
+035	Tundracky
+036	Amber Dracky
+090	Restless Armour
+091	Merry Man
+092	Lethal Armour
+093	Deserted Armour
+094	Tanzaknight
+100	King Slime
+102	Metal King Slime
+104	King She-Slime
+105	Queen Slime
+106	Emerald King Slime
+110	Golem
+111	Gold Golem
+113	Glyphic Golem
+115	Glacial Golem
+116	Ruby Golem
+120	Killing Machine
+121	Hunter Mech
+123	Dune Stalker
+125	Heartless Hunter
+126	Onyxterminator
+130	Orc
+131	Orc Chieftain
+132	Orc King
+133	Orc Queen
+140	Great Sabrecat
+141	Silver Sabrecat
+142	Dark Sabrecat
+143	Stormy Sabrecat
+150	Robbin' 'Ood
+151	Hoodlum
+152	Cyber Bully
+153	Steam Punk
+160	Gigantes
+162	Magmantes
+163	Golden Goliath
+190	Loss Leader
+191	Red Giant
+192	Ultra Marine
+200	Silverbones
+220	Masquerading Hornbull
+221	Masquerading Proudmane
+222	Masquerading Rimeblood
+223	Hornbull, Sentinel Of The Sands
+224	Proudmane, Sentinel Of The Cinders
+225	Rimeblood, Sentinel Of The Snows
+226	Stone Beast Of The Sands
+227	Stone Beast Of The Cinders
+228	Stone Beast Of The Snows
+230	Mogsworth
+240	Muddy Hand
+242	Hardy Hand
+243	Greasy Palm
+245	Grotty Hand
+246	Soggy Hand
+250	Ham Shamwitch
+251	Sham Hatwitch
+252	Hat Hamwitch
+253	Sham Hamwitch
+254	Shambles
+260	Shadow
+261	Silhouette
+263	Umbra
+264	Shady
+270	Hades Condor
+271	Elysium Bird
+272	Styx Raptor
+273	Valhalla Vulture
+280	Wight King
+281	Wight Prince
+282	Shadow Minister
+284	Pearly Wight
+290	Elysian Dragling
+291	Fiery Dragling
+292	Icy Dragling
+293	Dark Dragling
+294	Shiny Dragling
+

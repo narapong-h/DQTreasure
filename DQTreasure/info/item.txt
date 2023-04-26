@@ -1,0 +1,459 @@
+#ID Name
+0001	Chimaera Wing
+1001	Pebble
+1004	Frizz Pellet
+1005	Splish Pellet
+1006	Woosh Pellet
+1007	Crag Pellet
+1008	Bang Pellet
+1009	Crack Pellet
+1010	Zap Pellet
+1011	Donk Pellet
+1012	Sizz Pellet
+1013	Zam Pellet
+1014	Frizz Bomb
+1015	Splish Bomb
+1016	Woosh Bomb
+1017	Crag Bomb
+1018	Bang Bomb
+1019	Crack Bomb
+1020	Zap Bomb
+1021	Donk Bomb
+1022	Sizz Bomb
+1023	Zam Bomb
+1024	Heal Pellet
+1025	Midheal Pellet
+1026	Fullheal Pellet
+1027	Multiheal Pellet
+1028	Omniheal Pellet
+1029	Addra Pellet
+1030	Addkabra Pellet
+1031	Addrakadabra Pellet
+1032	Oomph Pellet
+1033	Buff Pellet
+1034	Accelerate Pellet
+1035	Ping Pellet
+1036	Blunt Pellet
+1037	Sap Pellet
+1038	Decelerate Pellet
+1039	Dim Pellet
+1040	Vulcanising Pellet
+1041	Cryonising Pellet
+1042	Electrifying Pellet
+1043	Terraforming Pellet
+1044	Snooze Pellet
+1045	Stun Pellet
+1046	Tox Pellet
+1048	Dazzle Pellet
+1049	Fizzle Pellet
+1050	Buddy Bullet
+1051	Better Buddy Bullet
+1052	Best Buddy Bullet
+1053	Blade Pellet
+1054	Mallet Pellet
+1055	Spiky Pellet
+1056	Blade Bomb
+1057	Mallet Bomb
+1058	Spiky Bomb
+1059	Panacea Pellet
+1060	Perfect Panacea Pellet
+1061	Bestest Buddy Bullet
+1062	Omniheal Bomb
+1501	Pebble Formula
+1504	Frizz Pellet Formula
+1505	Splish Pellet Formula
+1506	Whoosh Pellet Formula
+1507	Crag Pellet Formula
+1508	Bang Pellet Formula
+1509	Crack Pellet Formula
+1510	Zap Pellet Formula
+1511	Donk Pellet Formula
+1512	Sizz Pellet Formula
+1513	Zam Pellet Formula
+1514	Frizz Bomb Formula
+1515	Splish Bomb Formula
+1516	Whoosh Bomb Formula
+1517	Crag Bomb Formula
+1518	Bang Bomb Formula
+1519	Crack Bomb Formula
+1520	Zap Bomb Formula
+1521	Donk Bomb Formula
+1522	Sizz Bomb Formula
+1523	Zam Bomb Formula
+1524	Heal Pellet Formula
+1525	Midheal Pellet Formula
+1526	Fullheal Pellet Formula
+1527	Multiheal Pellet Formula
+1528	Omniheal Pellet Formula
+1529	Addra Pellet Formula
+1530	Addkabra Pellet Formula
+1531	Addrakadabra Pellet Formula
+1532	Oomph Pellet Formula
+1533	Buff Pellet Formula
+1534	Accelerate Pellet Formula
+1535	Ping Pellet Formula
+1536	Blunt Pellet Formula
+1537	Sap Pellet Formula
+1538	Decelerate Pellet Formula
+1539	Dim Pellet Formula
+1540	Vulcanising Pellet Formula
+1541	Cryonising Pellet Formula
+1542	Electrifying Pellet Formula
+1543	Terraforming Pellet Formula
+1544	Snooze Pellet Formula
+1545	Stun Pellet Formula
+1546	Tox Pellet Formula
+1548	Dazzle Pellet Formula
+1549	Fizzle Pellet Formula
+1550	Buddy Bullet Formula
+1551	Better Buddy Bullet Formula
+1552	Best Buddy Bullet Formula
+1553	Blade Pellet Formula
+1554	Mallet Pellet Formula
+1555	Spiky Pellet Formula
+1556	Blade Bomb Formula
+1557	Mallet Bomb Formula
+1558	Spiky Bomb Formula
+1559	Panacea Pellet Formula
+1560	Perfect Panacea Pellet Formula
+1561	Fabled Buddy Bullet Formula
+1562	Fabled Omniheal Pellet Formula
+2002	Company Banner
+2003	Map Of The Paternoggin
+2014	Slime Jewel
+2015	Restless Heart
+2016	Sanguinite
+2027	Sapphire Eye
+2028	Amber Horn
+2029	Amethyst Fang
+2030	Emerald Wing
+2031	Lapis Tail
+2032	Citrine Talon
+2033	Ruby Heart
+2035	Cinderblock
+2036	Treasure Map
+2037	Monument Fragment
+2038	Lexicon
+2039	Map Of The Ancient One'S Lair
+2040	Cypress Stick
+2041	Red Key
+2042	Blue Key
+2043	Green Key
+2044	Unappraised Treasure
+2045	Red Stone Tablet
+2046	Blue Stone Tablet
+2047	Green Stone Tablet
+2048	Gustav'S Gift
+2049	Plain Clothes
+2050	Goodybag Statue
+2051	Quarrying Contraption
+2052	Draconian Monument
+2053	Wingston Statue
+2054	Princess Anemone Statue
+2055	Cloud Compass Model
+2056	Captivating Cactus
+2057	Sabrina And Ariel Statue
+2058	Sylphanian Standard
+2059	Colossal Crystal
+2060	Gayle Statue
+2061	Treasure Hunters' Table
+2062	Substantial Shank
+2063	Sylphanian Tent Model
+2064	Captain Levanter Statue
+2065	Sylphanian Ship Model
+2066	Mogsworth'S Mantle
+2067	Pirates' Provisions
+2068	Pirates' Tent Model
+2069	Miniature Tree Trinket
+2070	Admiral Mogsworth Statue
+2071	Shady'S Shadow
+2072	Shady And Shambles'S Balloon
+2073	Shady And Shambles Statue
+2074	Pirate Ship Model
+2075	Bonnie Statue
+2076	Gustav Statue
+2077	Long John Silverbones Statue
+2078	The Seven Stones Replica
+2079	St4Tion-M4Ster Statue
+2080	Chunk Of Sanguinite
+2081	Station Model
+2082	Mr Euston Statue
+2083	Model Train
+2084	Scale Model Of Draconia
+2085	Giant Gateau
+2086	Hornbull Statue
+2087	Proudmane Statue
+2088	Rimeblood Statue
+2096	Stunstone
+2097	Dracky Jewel
+2098	Ham Shamwitch Jewel
+2099	Muddy Hand Jewel
+2100	Shadow Jewel
+2101	Hades Condor Jewel
+2102	Orc Jewel
+2103	Restless Armour Jewel
+2104	Wight King Jewel
+2105	Killing Machine Jewel
+2106	Great Sabrecat Jewel
+2107	Hoodlum Jewel
+2108	King Slime Jewel
+2109	Golem Jewel
+2110	Gigantes Jewel
+2111	Loss Leader Jewel
+2112	Dragling Jewel
+2113	Chequered Banner
+2114	Wavy Banner
+2115	Spotty Banner
+2116	Shocking Banner
+2117	Slimy Banner
+2118	Plundering Banner
+2119	Sylphlike Banner
+2120	Merry Banner
+2121	Beastly Banner
+2122	Phantom Banner
+2123	Cute Banner
+2124	Daybreak Banner
+2125	Plunderers' Emblem Banner
+2126	Sylphanian Emblem Banner
+2127	Merry Men'S Emblem Banner
+2128	Busters' Emblem Banner
+2129	Phantoms' Emblem Banner
+2130	Clowns' Emblem Banner
+2131	Breakers' Emblem Banner
+2132	Cloud Compass Banner
+2133	Mr Euston'S Banner
+2134	Triple Slime Banner
+2135	Horn Hoarder'S Tablet
+2136	Fang Finder'S Tablet
+2137	Wing Winner'S Tablet
+2138	Talon Tracker'S Tablet
+2139	Tail Trailer'S Tablet
+2140	Eye Earner'S Tablet
+2141	Tail Taker'S Tablet
+2142	Armlet Of Transmutation
+2143	Nadirian Sword
+3001	Succulent Steak
+3002	Luscious Lettuce
+3003	Rice Blossom
+3004	Wondrous Wheat
+3005	Slimedrop
+3006	Nectar
+3007	Budding Spud
+3008	Killer Tomato
+3009	Supreme Steak
+3010	Tough Nut
+3011	Free-Range Eggs
+3012	Wing Of Bat
+3013	Overgrown Onion
+3014	Hot Stuff
+3015	Buzzberries
+3016	Duneberry
+3017	Fresh Milk
+3018	Lethal Leaf
+3019	Salt Of The Earth
+3020	Secret Seasoning
+3021	Sparkly Sap
+3022	Wingtip Nectar
+3023	Sleeping Cap
+3024	Fisticup
+3025	Emerald Moss
+3026	Gloaming Grass
+3027	Narspicious
+3028	Pixie Dust
+3029	Aggressence
+3030	Slipweed
+3031	Moonrise Moss
+3032	Belle Cap
+3033	Sainted Soma
+3034	Finessence
+3035	Chaos Berry
+3036	Waveweed
+3037	Silkblossom
+3038	Princely Powder
+3039	Flintstone
+3040	Royal Soil
+3041	Brighten Rock
+3042	Dieamend
+3043	Enchanted Stone
+3044	Funny Bone
+3045	Unfungus
+3046	Saint'S Ashes
+3047	Densinium
+3048	Slime Crown
+3049	Faerie Fluff
+3050	Magic Beast Horn
+3051	Lava Lump
+3052	Lotus Nectar
+3053	Sandelion
+3054	Scorched Earth
+3055	Detonut
+3056	Cool Head
+3057	Tingletops
+3058	Loadstone
+3059	Bleached Bone
+3060	Black Glumpet
+3061	Solar Flower
+3062	Colossal Cactus
+3063	Mouldy Bone
+3064	Warmaline
+3065	Looking Grass
+3066	Candlecup
+3067	Red Gem
+3068	Orange Gem
+3069	Yellow Gem
+3070	Purple Gem
+3071	Glimmergrass
+3072	Ethereal Stone
+3073	Lucida Shard
+3074	Crimsonite
+3075	Serpent Bone
+3076	Agate Of Evolution
+3077	รผber Agate Of Evolution
+3078	Twisted Talons
+3079	Big Bone
+3080	Honed Horn
+3081	Thinkincense
+5001	Sharptooth Steak
+5002	Super Sharptooth Steak
+5003	Solid Salad
+5004	Sovereign Solid Salad
+5005	Orcish Omelette
+5006	Awesome Orcish Omelette
+5007	Mignon Magique
+5008	Mignon Magique Magnifique
+5009	Beefy Brisket
+5010	Beefier Brisket
+5011	Abracaprese
+5012	Abracaprese Alla Kazam
+5013	Nobbling Noodles
+5014	No-Nonsense Nobbling Noodles
+5015	Blocking Bake
+5016	Block Rockin' Bake
+5017	Regenerice
+5018	Reheated Regenerice
+5019	Wraith Risotto
+5020	Hair-Raising Wraith Risotto
+5021	Restorative Riceballs
+5022	Really Restorative Riceballs
+5025	Lucky Sushi
+5026	Extra Lucky Sushi
+5039	Bright-Eyed Brew
+5040	Bushy-Tailed Brew
+5041	Stirring Coffee
+5042	Special Stirring Coffee
+5043	Detox Draught
+5044	Double Detox Draught
+5047	Power Punch
+5048	Punchy Power Punch
+5049	Blowhard Beverage
+5050	Blowharder Beverage
+5051	Windcheater
+5052	Witchy Windcheater
+5053	Repulsive Jelly
+5054	Rancid Repulsive Jelly
+5055	Crude Oil Cordial
+5056	Refined Oil Cordial
+5057	Burger-On-The-Bone
+5058	Deluxe Burger-On-The-Bone
+5059	Springy Salad
+5060	Springier Salad
+5061	Bubble And Shriek
+5062	Hubble Bubble And Shriek
+5063	Scrapper'S Stew
+5064	Savage Scrapper'S Stew
+5065	Castlerole
+5066	Comforting Castlerole
+5067	Admiral'S Platter
+5068	Deluxe Admiral'S Platter
+5069	Bang Bang Noodles
+5070	Banging Bang Bang Noodles
+5071	Dark Side Rice
+5072	Darker Side Rice
+5073	Slightly Sprightly Spaghetti
+5074	Seriously Sprightly Spaghetti
+5075	Concentrated Curry
+5076	Highly Concentrated Curry
+5089	Stimulating Soda
+5090	Overstimulating Soda
+5091	Boxer'S Broth
+5092	Heavyweight Boxer'S Broth
+5093	Syrupy Serum
+5094	Sweetened Syrupy Serum
+5095	Shielding Smoothie
+5096	Superior Shielding Smoothie
+5097	Wonderwater
+5098	Distilled Wonderwater
+5099	Scaly Soda
+5100	Upscaly Soda
+5501	Sharptooth Steak Recipe
+5502	Super Sharptooth Steak Recipe
+5503	Solid Salad Recipe
+5504	Sovereign Solid Salad Recipe
+5505	Orcish Omelette Recipe
+5506	Awesome Orcish Omelette Recipe
+5507	Mignon Magique Recipe
+5508	Mignon Magique Magnifique Recipe
+5509	Beefy Brisket Recipe
+5510	Beefier Brisket Recipe
+5511	Abracaprese Recipe
+5512	Abracaprese Alla Kazam Recipe
+5513	Nobbling Noodles Recipe
+5514	No-Nonsense Nobbling Noodles Recipe
+5515	Blocking Bake Recipe
+5516	Block Rockin' Bake Recipe
+5517	Regenerice Recipe
+5518	Reheated Regenerice Recipe
+5519	Wraith Risotto Recipe
+5520	Hair-Raising Wraith Risotto Recipe
+5521	Restorative Riceballs Recipe
+5522	Really Restorative Riceballs Recipe
+5525	Lucky Sushi Recipe
+5526	Extra Lucky Sushi Recipe
+5539	Bright-Eyed Brew Recipe
+5540	Bushy-Tailed Brew Recipe
+5541	Stirring Coffee Recipe
+5542	Special Stirring Coffee Recipe
+5543	Detox Draught Recipe
+5544	Double Detox Draught Recipe
+5547	Power Punch Recipe
+5548	Punchy Power Punch Recipe
+5549	Blowhard Beverage Recipe
+5550	Blowharder Beverage Recipe
+5551	Windcheater Recipe
+5552	Witchy Windcheater Recipe
+5553	Repulsive Jelly Recipe
+5554	Rancid Repulsive Jelly Recipe
+5555	Crude Oil Cordial Recipe
+5556	Refined Oil Cordial Recipe
+5557	Burger-On-The-Bone Recipe
+5558	Deluxe Burger-On-The-Bone Recipe
+5559	Springy Salad Recipe
+5560	Springier Salad Recipe
+5561	Bubble And Shriek Recipe
+5562	Hubble Bubble And Shriek Recipe
+5563	Scrapper'S Stew Recipe
+5564	Savage Scrapper'S Stew Recipe
+5565	Castlerole Recipe
+5566	Comforting Castlerole Recipe
+5567	Admiral'S Platter Recipe
+5568	Deluxe Admiral'S Platter Recipe
+5569	Bang Bang Noodles Recipe
+5570	Banging Bang Bang Noodles Recipe
+5571	Dark Side Rice Recipe
+5572	Darker Side Rice Recipe
+5573	Slightly Sprightly Spaghetti Recipe
+5574	Super Sprightly Spaghetti Recipe
+5575	Concentrated Curry Recipe
+5576	Highly Concentrated Curry Recipe
+5589	Stimulating Soda Recipe
+5590	Overstimulating Soda Recipe
+5591	Boxer'S Broth Recipe
+5592	Heavyweight Boxer'S Broth Recipe
+5593	Syrupy Serum Recipe
+5594	Sweetened Syrupy Serum Recipe
+5595	Shielding Smoothie Recipe
+5596	Superior Shielding Smoothie Recipe
+5597	Wonderwater Recipe
+5598	Distilled Wonderwater Recipe
+5599	Scaly Soda Recipe
+5600	Upscaly Soda Recipe
