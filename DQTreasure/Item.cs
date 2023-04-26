@@ -8,40 +8,50 @@ using System.Threading.Tasks;
 
 namespace DQTreasure
 {
-	internal class Item : INotifyPropertyChanged
-	{
-		public event PropertyChangedEventHandler? PropertyChanged;
+    internal class Item : INotifyPropertyChanged
+    {
+        public event PropertyChangedEventHandler? PropertyChanged;
 
-		private readonly JObject mObject;
-		public Item(JObject obj)
-		{
-			mObject = obj;
-		}
+        private readonly JObject mObject;
+        public Item(JObject obj)
+        {
+            mObject = obj;
+        }
 
-		public uint ID
-		{
-			get { return (uint)mObject["ID"]; }
-			set
-			{
-				mObject["ID"] = value;
-				PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(ID)));
-			}
-		}
+        public uint ID
+        {
+            get { return (uint)mObject["ID"]; }
+            set
+            {
+                mObject["ID"] = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(ID)));
+            }
+        }
 
-		public uint Count
-		{
-			get { return (uint)mObject["Count"]; }
-			set
-			{
-				mObject["Count"] = value;
-				PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Count)));
-			}
-		}
+        public uint Count
+        {
+            get { return (uint)mObject["Count"]; }
+            set
+            {
+                mObject["Count"] = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Count)));
+            }
+        }
 
-		public bool IsNew
-		{
-			get { return (bool)mObject["IsNew"]; }
-			set { mObject["IsNew"] = value; }
-		}
-	}
+        public bool IsNew
+        {
+            get { return (bool)mObject["IsNew"]; }
+            set { mObject["IsNew"] = value; }
+        }
+
+        public uint GetOrder
+        {
+            get { return (uint)mObject["GetOrder"]; }
+            set
+            {
+                mObject["GetOrder"] = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(GetOrder)));
+            }
+        }
+    }
 }

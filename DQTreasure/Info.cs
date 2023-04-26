@@ -12,9 +12,11 @@ namespace DQTreasure
 		public List<NameValueInfo> Item { get; private set; } = new List<NameValueInfo>();
 		public List<NameValueInfo> Monster { get; private set; } = new List<NameValueInfo>();
 		public List<NameValueInfo> Treasure { get; private set; } = new List<NameValueInfo>();
+        public List<NameValueInfo> Coin { get; private set; } = new List<NameValueInfo>();
+        public List<NameValueInfo> Characteristic { get; private set; } = new List<NameValueInfo>();
+        
 
-
-		private Info() { }
+        private Info() { }
 
 		public static Info Instance()
 		{
@@ -46,7 +48,9 @@ namespace DQTreasure
 			AppendList(@"info\item.txt", Item);
 			AppendList(@"info\monster.txt", Monster);
 			AppendList(@"info\treasure.txt", Treasure);
-		}
+            AppendList(@"info\coin.txt", Coin);
+            AppendList(@"info\characteristic.txt", Characteristic);
+        }
 
 		private void AppendList<Type>(String filename, List<Type> items)
 			where Type : NameValueInfo, new()

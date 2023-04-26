@@ -1,0 +1,104 @@
+#ID Name
+020	Slime Medal
+021	She-Slime Medal
+022	Metal Slime Medal
+024	Marble Slime Medal
+025	Cutie Slime Medal
+026	Jade Slime Medal
+030	Dracky Medal
+032	Drackolyte Medal
+033	Dread Dracky Medal
+034	Drackyma Medal
+035	Tundracky Medal
+036	Amber Dracky Medal
+090	Restless Armour Medal
+091	Merry Man Medal
+092	Lethal Armour Medal
+093	Deserted Armour Medal
+094	Tanzaknight Medal
+100	King Slime Medal
+102	Metal King Slime Medal
+104	King She-Slime Medal
+105	Queen Slime Medal
+106	Emerald King Slime Medal
+110	Golem Medal
+111	Gold Golem Medal
+113	Glyphic Golem Medal
+115	Glacial Golem Medal
+116	Ruby Golem Medal
+120	Killing Machine Medal
+121	Hunter Mech Medal
+123	Dune Stalker Medal
+125	Heartless Hunter Medal
+126	Onyxterminator Medal
+130	Orc Medal
+131	Orc Chieftain Medal
+132	Orc King Medal
+133	Orc Queen Medal
+140	Great Sabrecat Medal
+141	Silver Sabrecat Medal
+142	Dark Sabrecat Medal
+143	Stormy Sabrecat Medal
+150	Robbin' 'Ood Medal
+151	Hoodlum Medal
+152	Cyber Bully Medal
+153	Steam Punk Medal
+160	Gigantes Medal
+162	Magmantes Medal
+163	Golden Goliath Medal
+190	Loss Leader Medal
+191	Red Giant Medal
+192	Ultra Marine Medal
+200	Silverbones Medal
+230	Mogsworth Medal
+240	Muddy Hand Medal
+242	Hardy Hand Medal
+243	Greasy Palm Medal
+245	Grotty Hand Medal
+246	Soggy Hand Medal
+250	Ham Shamwitch Medal
+251	Sham Hatwitch Medal
+252	Hat Hamwitch Medal
+253	Sham Hamwitch Medal
+254	Shambles Medal
+260	Shadow Medal
+261	Silhouette Medal
+263	Umbra Medal
+264	Shady Medal
+270	Hades Condor Medal
+271	Elysium Bird Medal
+272	Styx Raptor Medal
+273	Valhalla Vulture Medal
+280	Wight King Medal
+281	Wight Prince Medal
+282	Shadow Minister Medal
+284	Pearly Wight Medal
+290	Elysian Dragling Medal
+291	Icy Dragling Medal
+292	Fiery Dragling Medal
+293	Dark Dragling Medal
+294	Shiny Dragling Medal
+301	Frizz Medal
+302	Splish Medal
+303	Woosh Medal
+304	Crag Medal
+305	Bang Medal
+306	Crack Medal
+307	Zap Medal
+308	Donk Medal
+309	Sizz Medal
+310	Zam Medal
+311	Slash Medal
+312	Impact Medal
+313	Piercing Medal
+314	Sleep Medal
+315	Stun Medal
+316	Poison Medal
+319	Instant Death Medal
+320	Debilitation Medal
+321	Hp Medal
+322	Mp Medal
+323	Attack Medal
+324	Defence Medal
+325	Deftness Medal
+326	Magic Medal
