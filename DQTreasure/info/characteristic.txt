@@ -1,0 +1,99 @@
+001	Max. HP Boost
+002	Max. MP Boost
+003	Attack Boost
+004	Defence Boost
+005	Deftness Boost
+006	Magic Boost
+007	Max. HP Sag
+008	Max. MP Sag
+009	Attack Sag
+010	Defence Sag
+011	Deftness Sag
+012	Magic Sag
+031	Big Basher
+032	Spellraiser
+033	Breezy Breather
+034	Giant Skiller
+035	Health Professional
+041	Frizzmeister
+042	Splishmeister
+043	Wooshmeister
+044	Cragmeister
+045	Bangmeister
+046	Crackmeister
+047	Zapmeister
+048	Donkmeister
+049	Sizzmeister
+050	Zammeister
+051	Smart Slasher
+052	Expert Impactor
+053	Proficient Piercer
+071	Critical Massacre
+072	Blockaid
+073	Eye For Talent
+074	Easy Target
+075	Hard Target
+081	Insomniac
+082	Granite Chin
+083	Antitoxidant
+086	Death Defier
+087	Tough Customer
+091	Peak Prolonger
+092	Slump Stretcher
+093	Faster Caster
+094	Slinky Linker
+095	No Hit Wonder
+096	Second Wind
+097	Critical Acclaim
+098	Block Booster
+101	Auto-Restora
+102	Auto-Cadabra
+103	Block Doc
+104	Bloccultist
+105	Castcutter
+106	Spiked Armour
+107	Mirror Armour
+108	Miracle Armour
+109	Glombolero
+110	Double-Edged Sword
+111	Silver Staff
+112	Exp-Ander
+113	Strike It Lucky
+114	Sting In The Tail
+201	Thick Skin
+202	Rubber Skin
+203	Slippery Skin
+204	Metal Skin
+205	Unhealthy Advantage
+206	Healthy Advantage
+207	Team Player
+208	Lone Wolf
+209	Daredevil
+210	Safety First
+231	Hypnotist
+232	Stunner
+233	Poisoner
+236	Killer
+237	Debilitator
+241	Counter-Hypnotist
+242	Counter-Stunner
+243	Counter-Poisoner
+246	Counter-Killer
+247	Counter-Debilitator
+281	Attention Seeker
+282	Shrinking Violet
+283	Clown
+284	Paragon
+285	Idealist
+286	Slippery Devil
+287	HP Gambit
+288	MP Gambit
+289	Greedy Guts
+290	Slim Pickings
+291	Restless Heart
+292	Spiky Skin
+293	Shiny Skin
+294	Glutton For Punishment
+295	Strange Skin
+296	Double-Sided Fist
+297	Sorcereverb

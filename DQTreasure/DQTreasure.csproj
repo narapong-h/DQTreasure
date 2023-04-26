@@ -8,8 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="resource\Coin.png" />
     <None Remove="resource\Open.png" />
+    <None Remove="resource\PowerUp.png" />
     <None Remove="resource\Save.png" />
+    <None Remove="resource\Up.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,15 +21,20 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="resource\Coin.png" />
     <Resource Include="resource\Open.png" />
+    <Resource Include="resource\PowerUp.png" />
     <Resource Include="resource\Save.png" />
+    <Resource Include="resource\Up.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="info\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <None Update="info\characteristic.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="info\coin.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="info\item.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
